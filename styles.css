@@ -5,5 +5,32 @@ body {
 
 header {
    background-color: yellow 
+   text-align: center;
+   front size: 32px;
+   padding: 10px;
+   border-bottom: solid 2px black;
+   }
 
-}
+   .primeirovideo{
+    background-color: orange;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+   }
+
+   .chamadatexto {
+    margin-left: 20xp;
+    margin-left: 10px;
+    text-align: justify;
+   }
+
+   h1 {
+    front-size: 40xp;
+    margin-left: 150xp;
+    margin-right: 100xp;
+   }
+
+   p {
+    front-size :20xp
+   }
