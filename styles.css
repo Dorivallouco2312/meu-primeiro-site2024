@@ -26,11 +26,11 @@ header {
    }
 
    h1 {
-    front-size: 40xp;
+    font-size: 40xp;
     margin-left: 150xp;
     margin-right: 100xp;
    }
 
    p {
-    front-size :20xp
+    font-size :20xp
    }
