@@ -6,7 +6,7 @@ body {
 header {
    background-color: yellow 
    text-align: center;
-   front size: 32px;
+   font size: 32px;
    padding: 10px;
    border-bottom: solid 2px black;
    }
@@ -20,17 +20,17 @@ header {
    }
 
    .chamadatexto {
-    margin-left: 20xp;
+    margin-left: 20px;
     margin-left: 10px;
     text-align: justify;
    }
 
    h1 {
-    font-size: 40xp;
-    margin-left: 150xp;
-    margin-right: 100xp;
+    font-size: 40px;
+    margin-left: 150px;
+    margin-right: 100px;
    }
 
    p {
-    font-size :20xp
+    font-size :20px
    }
