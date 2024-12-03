@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: gainsboro;
     color:aliceblue;
 }
 
@@ -39,7 +39,7 @@ header {
    .videos {
      display: flex;
      overflow-x: auto;
-     gap:10px
+     gap:10px;
    }
 
    .outrosvideos{
@@ -48,7 +48,7 @@ header {
    }
 
    .videos img {
-    opacity:o.8;
+    opacity:0.8;
     height: 150px;
    }
 
