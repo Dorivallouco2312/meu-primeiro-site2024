@@ -11,7 +11,7 @@ header {
    border-bottom: solid 2px black;
    }
 
-   .primeirovideo{
+.primeirovideo{
     background-color: orange;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -19,18 +19,40 @@ header {
     justify-content: center;
    }
 
-   .chamadatexto {
+.chamadatexto {
     margin-left: 20px;
     margin-left: 10px;
     text-align: justify;
    }
-
-   h1 {
+ h1 {
     font-size: 40px;
     margin-left: 150px;
     margin-right: 100px;
    }
 
-   p {
+ p {
     font-size :20px
+   }
+
+
+
+   .videos {
+     display: flex;
+     overflow-x: auto;
+     gap:10px
+   }
+
+   .outrosvideos{
+    padding-left: 20px;
+    padding-right: 20px;
+   }
+
+   .videos img {
+    opacity:o.8;
+    height: 150px;
+   }
+
+   .videos img:hover {
+    opacity:1.0;
+    border:2px solid green;
    }
